@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Snow2">#eee9e9</color>
+    <color name="Snow3">#cdc9c9</color>
+    <color name="NavajoWhite">#ffdead</color>
+    <color name="BrightTurquoise">#08E8DE</color>
+</resources>
